@@ -1,0 +1,106 @@
+Part Number,Description
+NE555,Timer IC
+OBS-2000-X,Old VGA Controller
+LM7805,Voltage Regulator 5V
+LEGACY-CHIP-99,Discontinued Memory
+ATMEGA328P,Microcontroller 8-bit
+SN74LS00,TTL NAND gate
+DS1307,Real-time clock with I2C
+L298N,Dual H-bridge motor driver
+SN74LS00,TTL NAND gate
+LM2596,Buck regulator
+MC9S12DG256,16-bit automotive microcontroller
+LM2596,Buck regulator
+LPC1768,ARM Cortex-M3 microcontroller
+OPA2134,Low-noise audio operational amplifier
+XC9572XL,Xilinx CPLD
+DS1307,Real-time clock with I2C
+STM32G431,ARM Cortex-M4 microcontroller
+LPC1768,ARM Cortex-M3 microcontroller
+CD4069UB,CMOS hex inverter
+CY8C5888,PSoC 5LP mixed-signal MCU
+MAX7000S,Altera CPLD
+STM32G431,ARM Cortex-M4 microcontroller
+MPC5604B,PowerPC automotive MCU
+DS1307,Real-time clock with I2C
+OPA2134,Low-noise audio operational amplifier
+SN74HCT245,CMOS bus transceiver
+XC6SLX9,Spartan-6 FPGA
+CD4069UB,CMOS hex inverter
+MPC5604B,PowerPC automotive MCU
+MAX7000S,Altera CPLD
+LT1763,Low-noise LDO regulator
+LT1763,Low-noise LDO regulator
+STM32G431,ARM Cortex-M4 microcontroller
+OPA627,Precision operational amplifier
+DAC8562,16-bit dual DAC
+SN74HCT245,CMOS bus transceiver
+L298N,Dual H-bridge motor driver
+SN74HCT245,CMOS bus transceiver
+TL072,JFET-input operational amplifier
+LM358,Dual operational amplifier
+LM358,Dual operational amplifier
+DS18B20,Digital temperature sensor
+LT1763,Low-noise LDO regulator
+DAC8562,16-bit dual DAC
+L298N,Dual H-bridge motor driver
+TL072,JFET-input operational amplifier
+MAX7000S,Altera CPLD
+LPC1768,ARM Cortex-M3 microcontroller
+INA128,Instrumentation amplifier
+SN74HCT245,CMOS bus transceiver
+CY8C5888,PSoC 5LP mixed-signal MCU
+SN74HCT245,CMOS bus transceiver
+INA128,Instrumentation amplifier
+SN74HCT245,CMOS bus transceiver
+PCM1794A,24-bit audio DAC
+STM32G431,ARM Cortex-M4 microcontroller
+MAX232,RS-232 level shifter
+DAC8562,16-bit dual DAC
+LM2596,Buck regulator
+LT1763,Low-noise LDO regulator
+EP2C5T144,Altera Cyclone II FPGA
+PCM1794A,24-bit audio DAC
+INA128,Instrumentation amplifier
+INA128,Instrumentation amplifier
+ADC0804,8-bit ADC
+ADC0804,8-bit ADC
+TPS62130,Step-down DC-DC converter
+DAC8562,16-bit dual DAC
+ADC0804,8-bit ADC
+XC9572XL,Xilinx CPLD
+SN74LS00,TTL NAND gate
+TL072,JFET-input operational amplifier
+CY8C5888,PSoC 5LP mixed-signal MCU
+L298N,Dual H-bridge motor driver
+LM2596,Buck regulator
+SN74HC04,CMOS hex inverter
+CD4069UB,CMOS hex inverter
+L298N,Dual H-bridge motor driver
+ADC0804,8-bit ADC
+LPC1768,ARM Cortex-M3 microcontroller
+ADS1115,16-bit ADC with I2C interface
+OPA2134,Low-noise audio operational amplifier
+CD4069UB,CMOS hex inverter
+CY7C68013A,USB 2.0 FX2LP controller
+STM32G431,ARM Cortex-M4 microcontroller
+XC9572XL,Xilinx CPLD
+SN74HCT245,CMOS bus transceiver
+SN74LS00,TTL NAND gate
+SN74HC04,CMOS hex inverter
+OPA627,Precision operational amplifier
+MAX232,RS-232 level shifter
+SN74HCT245,CMOS bus transceiver
+STM32F103C8,ARM Cortex-M3 microcontroller
+PCM1794A,24-bit audio DAC
+SN74HCT245,CMOS bus transceiver
+DS18B20,Digital temperature sensor
+EP2C5T144,Altera Cyclone II FPGA
+SN74HCT245,CMOS bus transceiver
+CY7C68013A,USB 2.0 FX2LP controller
+MAX232,RS-232 level shifter
+OPA2134,Low-noise audio operational amplifier
+CD4069UB,CMOS hex inverter
+ADS1115,16-bit ADC with I2C interface
+DS18B20,Digital temperature sensor
+LT1763,Low-noise LDO regulator
